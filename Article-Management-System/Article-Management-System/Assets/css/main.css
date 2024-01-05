@@ -1,0 +1,33 @@
+.nav .logo #logo-name {
+  color: aliceblue;
+}
+
+.footer {
+  background-color: white;
+  color: black;
+  text-align: center;
+  margin-top: 4rem;
+}
+
+.logout {
+  text-decoration: none;
+  color: white;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+}
+
+.nav-link {
+  color: blanchedalmond;
+}
+
+* {
+  font-family: sans-serif;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}

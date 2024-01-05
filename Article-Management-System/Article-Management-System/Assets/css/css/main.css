@@ -1,0 +1,57 @@
+.footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin-top: 4rem;
+}
+
+.logout {
+  text-decoration: none;
+  color: white;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+}
+
+.nav-link {
+  color: blanchedalmond;
+}
+
+* {
+  font-family: sans-serif;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  background: url(Assets/image/log.png);
+  background-size: cover;
+  opacity: 0.5 !important;
+}
+
+#login-continer {
+  overflow: hidden;
+}
+#login-continer .main .card .card-body {
+  position: absolute;
+}
+#login-continer .main .card #imgLogin {
+  position: relative;
+  top: 50px;
+  left: 50px;
+}
+
+#singup-continer {
+  overflow: hidden;
+}
+#singup-continer .main .card .card-body {
+  position: absolute;
+}
+#singup-continer .main .card #log-img {
+  position: relative;
+}
